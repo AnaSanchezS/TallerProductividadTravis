@@ -27,7 +27,7 @@ def automatedAlarm(day, school):
         time = '8:30'
     elif day == 'friday' and school == False:
         time = '7:00'
-    elif day == 'saturday'and school == True::
+    elif day == 'saturday'and school == True:
         time = '9:00'
     elif day == 'sunday'and school == False:
         time ='9:00'
