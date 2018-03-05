@@ -2,6 +2,8 @@
 # by Matthew Laurins
 
 # Write function defintion: automatedAlarm()
+day='monday'
+school='true'
 
 # Make sure it returns a value
 def automatedAlarm(day, school):
@@ -62,3 +64,4 @@ if __name__ == '__main__':
         else:
             print("Please enter Yes or No")
             continue
+	
